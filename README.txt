@@ -1,4 +1,4 @@
-
+To Download, Click the green button at the top of the screen that says "Code" then click "Download ZIP"
  ______     __     ______        ______     __         ______   ______    
 /\  __ \   /\ \   /\  == \      /\  __ \   /\ \       /\  == \ /\  ___\   
 \ \  __ \  \ \ \  \ \  __<      \ \  __ \  \ \ \____  \ \  _-/ \ \___  \  
