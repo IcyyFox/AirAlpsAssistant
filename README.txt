@@ -22,7 +22,7 @@ Click the download button, and when it finishes, Python will be fully installed 
 
 Step 2. Starting the Assistant
 
-In this Folder, there is a File named "AirAlps Assistant v1".
+In this Folder, there is a File named "AirAlps Assistant v1.3".
 Open it by double clicking on it, and if step 1 has been completed, it will start as intended
 and  you'll be able to log your flights easier!
 To make it even more convenient, move the Assistant to your "Desktop" Folder or Create a desktop shortcut to it.
